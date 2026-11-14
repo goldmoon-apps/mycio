@@ -7,7 +7,7 @@ title: 마이 CIO 개인정보 처리방침
 시행일: 2026년 11월 14일
 
 ## 1. 만든 곳
-골드문(GoldMoon)  
+골드문 GoldMoon  
 문의: goldmoon.mycio@gmail.com
 
 ## 2. 앱이 읽는 정보
